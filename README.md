@@ -9,6 +9,13 @@
 
 <br/>
 
+<p align="center">:round_pushpin: Profile views</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Oby12/count.svg">
+</div>
+
+<br/>
+
 <p>
   
 Hi 👋, I am a student an information systems student who is very interested in the field of technology, and I have an interest in Android developer, Design and currently I am pursuing independent studies with Bangkit Academy 2023 Batch ✨
@@ -71,14 +78,11 @@ Hi 👋, I am a student an information systems student who is very interested in
     <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/giingu?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
 </p>
 
-## 🎮 Try pressing the buttons and come back down
-
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
 
 
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Oby12"><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/up.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/Oby12"><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/Oby12"><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/Oby12"><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/Oby12"><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/A.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/Oby12"><img src="https://raw.githubusercontent.com/Giingu/Oby12/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Oby12"><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Oby12"><img src="https://raw.githubusercontent.com/Oby12/Oby12/main/images/start.png" height="35" /></a>
-  </div>
+  <!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oby12&theme=github)](https://github.com/Oby12)
+
+ <br>
+ <br>
