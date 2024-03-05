@@ -9,6 +9,8 @@
 
 <br/>
 
+<!--profile views-->
+
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Oby12/count.svg">
@@ -18,7 +20,10 @@
 
 <p>
   
-Hi 👋, I am a student an information systems student who is very interested in the field of technology, and I have an interest in Android developer, Design and currently I am pursuing independent studies with Bangkit Academy 2023 Batch ✨
+### Hi there, I'm Bobby.S <img src="https://github.com/Oby12/Oby12/blob/main/Hi.gif" width="22px">
+I am a student an information systems student who is very interested in the field of technology, and I have an interest in Android developer, Design and currently I am pursuing independent studies with Bangkit Academy 2023 Batch ✨
+
+<br/>
 
 <div>
 <details>
@@ -39,6 +44,8 @@ Hi 👋, I am a student an information systems student who is very interested in
 </details>
   
 </p>
+
+<br/>
   
 <!--
 <details>
