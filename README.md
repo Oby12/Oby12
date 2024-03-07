@@ -22,7 +22,7 @@
   
 ### Hi there, I'm Bobby.S <img src="https://github.com/Oby12/Oby12/blob/main/Hi.gif" width="22px">
 
-# Mobile Developer />, Home Builder and a Genshin! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+# Mobile Developer />, Home Builder and a Genshin! XIXI <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 I am a student an information systems student who is very interested in the field of technology, and I have an interest in Android developer, Design and currently I am pursuing independent studies with Bangkit Academy 2023 Batch ✨
 
