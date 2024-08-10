@@ -26,6 +26,8 @@
 
 I am a student an information systems student who is very interested in the field of technology, and I have an interest in Android developer, Design and currently I am pursuing independent studies with Bangkit Academy 2023 Batch ✨
 
+PORTOFOLIO : [TAP HERE](https://www.figma.com/proto/87vEGBBeamt5gLGJCo3oYA/Portofolio?page-id=0%3A1&node-id=1-3&viewport=1204%2C1010%2C0.58&t=A5xka2MZbjdjOIS3-1&scaling=contain&content-scaling=fixed&starting-point-node-id=1%3A3)
+
 <br/>
 
 <div>
