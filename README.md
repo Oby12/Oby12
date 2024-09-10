@@ -42,7 +42,7 @@ PORTOFOLIO : [TAP HERE](https://www.figma.com/proto/87vEGBBeamt5gLGJCo3oYA/Porto
 
 - 👨‍💻 Lets Follow my Linkedid [Lets Connet With Oby]([https://www.linkedin.com/in/sergiogarciagamez/](https://www.linkedin.com/in/bobby-saputra-34339a240/))
 
-- 💬 I am very interested in the field of technology, specifically mobile developer, machine learning and design**
+- 💬 I am very interested in the field of technology, specifically mobile developer and design**
 
 - 📫 My Instagram [bobbysptra12](https://www.instagram.com/bobby_sptra12/)**
 
