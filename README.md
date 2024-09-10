@@ -34,7 +34,7 @@ PORTOFOLIO : [TAP HERE](https://www.figma.com/proto/87vEGBBeamt5gLGJCo3oYA/Porto
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I have just graduated from the Rise Academy 2023 batch 2 program
+- 🔭 I have just graduated from Bangkit Academy 2023 batch 2 program
 
 - 🌱 I’m currently learning **everything** 🤓
 
